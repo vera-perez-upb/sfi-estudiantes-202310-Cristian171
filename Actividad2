@@ -1,13 +1,23 @@
 ## Micro controlador
 
-- Procesador: El corazón del microcontrolador es un procesador que ejecuta instrucciones de un programa almacenado en la memoria. Este procesador puede ser de arquitectura RISC (Reduced Instruction Set Computing) o CISC (Complex Instruction Set Computing), y su velocidad de reloj determina la velocidad de procesamiento.
+- Procesador: El corazón del microcontrolador es un procesador que ejecuta instrucciones de un programa almacenado en la memoria.
+Este procesador puede ser de arquitectura RISC (Reduced Instruction Set Computing) o CISC (Complex Instruction Set Computing),
+y su velocidad de reloj determina la velocidad de procesamiento.
 
-- Memoria: Los microcontroladores tienen diferentes tipos de memoria, como la memoria de programa (flash) donde se almacena el código ejecutable, y la memoria RAM para almacenar datos temporales y variables.
+- Memoria: Los microcontroladores tienen diferentes tipos de memoria, como la memoria de programa (flash) donde se almacena el código ejecutable,
+y la memoria RAM para almacenar datos temporales y variables.
 
-- Puertos de Entrada/Salida (I/O): Los microcontroladores tienen una serie de pines que se pueden configurar como entradas o salidas digitales o analógicas. Estos pines permiten al microcontrolador interactuar con el mundo exterior, recibiendo señales de sensores o controlando dispositivos como luces, motores, etc.
+- Puertos de Entrada/Salida (I/O): Los microcontroladores tienen una serie de pines que se pueden configurar como entradas o salidas digitales o analógicas.
+Estos pines permiten al microcontrolador interactuar con el mundo exterior, recibiendo señales de sensores o controlando dispositivos como luces, motores, etc.
 
-- Periféricos integrados: Muchos microcontroladores vienen con periféricos integrados como temporizadores, contadores, convertidores analógico-digitales (ADC) y digitales-analógicos (DAC), comunicación serial (UART, SPI, I2C), entre otros. Estos periféricos amplían las capacidades del microcontrolador y lo hacen adecuado para una variedad de aplicaciones.
+- Periféricos integrados: Muchos microcontroladores vienen con periféricos integrados como temporizadores,
+contadores, convertidores analógico-digitales (ADC) y digitales-analógicos (DAC), comunicación serial (UART, SPI, I2C),
+entre otros. Estos periféricos amplían las capacidades del microcontrolador y lo hacen adecuado para una variedad de aplicaciones.
 
-- Programación: Los microcontroladores se programan utilizando lenguajes de programación como C, C++, o lenguajes de alto nivel específicos para microcontroladores como Arduino IDE. Los programas se escriben en un PC, se compilan y luego se cargan en el microcontrolador a través de un programador.
+- Programación: Los microcontroladores se programan utilizando lenguajes de programación como C, C++,
+o lenguajes de alto nivel específicos para microcontroladores como Arduino IDE. Los programas se escriben en un PC,
+se compilan y luego se cargan en el microcontrolador a través de un programador.
 
-- Ejecución de tareas: Una vez que el programa se ha cargado en el microcontrolador, este comienza a ejecutar las instrucciones paso a paso. Dependiendo del programa, el microcontrolador puede realizar tareas como controlar dispositivos, procesar datos de sensores, enviar datos a través de comunicaciones inalámbricas, entre otras cosas.
+- Ejecución de tareas: Una vez que el programa se ha cargado en el microcontrolador,
+este comienza a ejecutar las instrucciones paso a paso. Dependiendo del programa, el microcontrolador puede realizar tareas como controlar dispositivos,
+procesar datos de sensores, enviar datos a través de comunicaciones inalámbricas, entre otras cosas.
